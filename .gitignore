@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.claude/sessions/
+.claude/projects/
+.claude/cache/
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+~*
